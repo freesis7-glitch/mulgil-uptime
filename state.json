@@ -1,15 +1,15 @@
 {
  "API": {
-  "state": "up",
-  "since": "2026-09-15 14:34 KST",
-  "code": 200,
-  "last": "2026-09-16 08:04 KST"
+  "state": "down",
+  "since": "2026-09-16 08:10 KST",
+  "code": 0
  },
  "DB": {
   "state": "down",
   "since": "2026-09-16 08:04 KST",
-  "code": 503
+  "code": 503,
+  "last": "2026-09-16 08:10 KST"
  },
- "_last_check": "2026-09-16 08:04 KST",
+ "_last_check": "2026-09-16 08:10 KST",
  "_heartbeat_date": "2026-09-16"
 }
