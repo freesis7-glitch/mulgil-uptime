@@ -3,14 +3,14 @@
   "state": "up",
   "since": "2026-09-16 10:52 KST",
   "code": 200,
-  "last": "2026-09-20 00:00 KST"
+  "last": "2026-09-21 00:03 KST"
  },
  "DB": {
   "state": "down",
   "since": "2026-09-17 10:34 KST",
   "code": 503,
-  "last": "2026-09-20 00:00 KST"
+  "last": "2026-09-21 00:03 KST"
  },
- "_last_check": "2026-09-20 00:00 KST",
- "_heartbeat_date": "2026-09-20"
+ "_last_check": "2026-09-21 00:03 KST",
+ "_heartbeat_date": "2026-09-21"
 }
